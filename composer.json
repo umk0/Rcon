@@ -2,6 +2,7 @@
     "name": "umk0/rcon",
     "description": "GoldSrc PHP client RCON",
     "license": "proprietary",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Henrik Beige"
